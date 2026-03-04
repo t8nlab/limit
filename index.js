@@ -304,4 +304,8 @@ class Limit {
 
 }
 
+
+
+registerExtension("limit", Limit);
+
 export default Limit
