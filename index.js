@@ -1,5 +1,7 @@
 import "@titanpl/node/globals"
 import { ls, time, crypto, response } from "@titanpl/native"
+import { registerExtension } from "./utils/registerExtension.js";
+
 
 class Limit {
 

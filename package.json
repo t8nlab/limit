@@ -1,6 +1,6 @@
 {
   "name": "@t8n/limit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Advanced rate limiter for the TitanPl Framework",
   "keywords": [
     "t8n",
