@@ -1,0 +1,25 @@
+{
+  "name": "@t8n/limit",
+  "version": "1.0.0",
+  "description": "Advanced rate limiter for the TitanPl Framework",
+  "keywords": [
+    "t8n",
+    "titan",
+    "titanpl",
+    "ratelimit",
+    "limit"
+  ],
+  "license": "ISC",
+  "author": "ezetgalaxy",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@titanpl/core": "latest",
+    "@titanpl/native": "latest",
+    "@titanpl/node": "latest"
+  }
+}

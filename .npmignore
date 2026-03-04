@@ -1,0 +1,71 @@
+# Development folders
+
+tests/
+test/
+examples/
+example/
+bench/
+benchmark/
+docs/
+scripts/
+
+# Source control
+
+.git/
+.github/
+.gitignore
+
+# Editor settings
+
+.vscode/
+.idea/
+
+# Logs
+
+*.log
+logs/
+
+# Environment files
+
+.env
+.env.*
+
+# OS junk
+
+.DS_Store
+Thumbs.db
+
+# Temporary
+
+tmp/
+temp/
+*.tmp
+*.swp
+
+# Build artifacts not needed in package
+
+coverage/
+.nyc_output/
+
+# CI configs
+
+.github/
+.gitlab/
+.circleci/
+
+# Local configs
+
+*.local.js
+*.local.json
+
+# Misc
+
+debug.log
+
+# Keep important files
+
+!README.md
+!LICENSE
+!package.json
+!index.js
+!index.d.ts
