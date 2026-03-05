@@ -1,6 +1,6 @@
 {
   "name": "@t8n/limit",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Advanced rate limiter for the TitanPl Framework",
   "keywords": [
     "t8n",
@@ -12,7 +12,8 @@
   "files": [
     "index.js",
     "index.d.ts",
-    "titan.json"
+    "titan.json",
+    "/utils"
   ],
   "license": "ISC",
   "author": "ezetgalaxy",
