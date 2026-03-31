@@ -42,14 +42,12 @@
  * }
  */
 
-/**
- * Titan request object.
- */
-export interface TitanRequest {
-    headers?: Record<string, string>
-    path?: string
-    url?: string
-  }
+import { TitanRequest } from "@titanpl/native"
+
+export type { TitanRequest }
+
+
+
   
   /**
    * Burst limiter configuration.
